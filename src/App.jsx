@@ -84,7 +84,7 @@ export default function VirtualMousePage() {
           custom={4}
         >
           <a
-            href="/virtualmouse.exe"
+            href="https://drive.google.com/file/d/12v3lcS1koyVJ_OVH632W4wFkiKG6VfpT/view"
             download
             className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl text-lg font-semibold shadow-lg transition"
           >
